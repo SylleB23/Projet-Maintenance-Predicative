@@ -6,4 +6,16 @@ EXIT;
 CREATE DATABASE IF NOT EXISTS festo;
 USE festo;
 
-CREATE
+-- CREATE TABLE IF NOT EXISTS (
+--    );
+
+-- CREATE TABLE IF NOT EXISTS (
+--    );
+
+-- CREATE TABLE IF NOT EXISTS (
+--    );
+
+-- CREATE TABLE IF NOT EXISTS (
+--    );
+
+
