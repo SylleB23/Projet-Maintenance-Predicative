@@ -42,11 +42,11 @@
     </div>
 
     <section>
-        <h2>Une maintenance intelligente, basée sur les données</h2>
-        <p>
-            Contrairement aux méthodes de maintenance traditionnelles, la maintenance prédictive s'appuie sur
-            le fonctionnement réel des machines. Les équipements sont connectés via une architecture IoT
-            industrielle capable de collecter et transmettre les données terrain en continu.
+<h2>Une maintenance intelligente, basée sur les données</h2>
+    <p>
+        Contrairement aux méthodes de maintenance traditionnelles, la maintenance prédictive s'appuie sur
+        le fonctionnement réel des machines. Les équipements sont connectés via une architecture IoT
+        industrielle capable de collecter et transmettre les données terrain en continu.
         </p>
         <p>
             Cette approche offre une vision fiable et objective de l'état de santé des systèmes industriels.
@@ -66,11 +66,11 @@
     </section>
 
     <section>
-        <h2>Supervision en temps réel</h2>
-        <p>
-            Notre site web permet de superviser les équipements industriels en temps réel.
-            Vous pouvez alors en tant qu'utilisateur consulter les données des capteurs, visualiser des graphiques clairs
-            et accéder à l'historique des alertes.
+<h2>Supervision en temps réel</h2>
+    <p>
+        Notre site web permet de superviser les équipements industriels en temps réel.
+         Vous pouvez alors en tant qu'utilisateur consulter les données des capteurs, visualiser des graphiques clairs
+        et accéder à l'historique des alertes.
         </p>
         <p>
             Cette interface constitue un véritable outil d'aide à la décision pour la maintenance.

@@ -170,12 +170,12 @@ iframe {
     background-color: wheat;
     padding-top: 100px;
     box-shadow: -2px 0 10px rgba(0, 0, 0, 0.3);/*important pr l'esthetique car sans ca en gros ca donne d'impression que y'a pas delimitation entre le nav et le menu si ils sont de la mm couleur(vert)*/
-    transition: right 0.4s ease; /*c pour que ca fasse plus beau qaund on appuie sur le hum*/
+    transition: right 0.4s ease; /*c pour que ca fasse plus beau qaund on appuie sur le hum et que le menu s'affiche*/
     z-index: 1000;
     list-style: none;
 }
 
-.LeMenu.active {
+.LeMenu.ouvert {
     right: 0;
 }
 
